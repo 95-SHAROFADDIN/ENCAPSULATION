@@ -2,10 +2,17 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
-    val cobalt =Car(
-        "Cobalt",
-        "Chevralet",
-        "White"
+//    val cobalt =Car(
+//        "Cobalt",
+//        "Chevralet",
+//        "White"
+//    )
+//println(cobalt)
+
+    val cat = Animal(
+        "Kchuk",
+        "Blac",
+        2
     )
-println(cobalt)
+println(cat)
 }
